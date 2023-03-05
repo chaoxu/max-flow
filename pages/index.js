@@ -6,12 +6,12 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>Max Flow</title>
       </Head>
 
       <main>
         <Header title="Max Flow" />
+        <img src="/maxflow.png" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
         <p className="description">
           Stealth retail arbitrage startup. 
         </p>
