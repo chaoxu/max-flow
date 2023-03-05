@@ -11,8 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Max Flow" />
-        <img src="/logo.png" />
+        <Header />
         <p className="description">
           Stealth retail arbitrage startup. 
         </p>

@@ -1,3 +1,5 @@
-export default function Header({ title }) {
-  return <h1 className="title">{title}</h1>
+import styles from './Header.module.css'
+
+export default function Header() {
+  return <img src="/logo.png" className="center" />
 }
