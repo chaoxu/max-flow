@@ -7,6 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Max Flow</title>
+        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
